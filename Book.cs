@@ -18,7 +18,7 @@ namespace BookMarke
         {
             Id = id;
             Name = name;
-            Console.WriteLine("New Book Created");
+            Console.WriteLine("New Book Created!!");
         }
 
         public Book(int id,string name,int pagesize,double price,int inStock):this(id,name)

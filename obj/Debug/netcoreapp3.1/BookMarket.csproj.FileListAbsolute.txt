@@ -1,0 +1,14 @@
+C:\Users\Onur\source\repos\BookMarke\bin\Debug\netcoreapp3.1\BookMarket.exe
+C:\Users\Onur\source\repos\BookMarke\bin\Debug\netcoreapp3.1\BookMarket.deps.json
+C:\Users\Onur\source\repos\BookMarke\bin\Debug\netcoreapp3.1\BookMarket.runtimeconfig.json
+C:\Users\Onur\source\repos\BookMarke\bin\Debug\netcoreapp3.1\BookMarket.runtimeconfig.dev.json
+C:\Users\Onur\source\repos\BookMarke\bin\Debug\netcoreapp3.1\BookMarket.dll
+C:\Users\Onur\source\repos\BookMarke\bin\Debug\netcoreapp3.1\BookMarket.pdb
+C:\Users\Onur\source\repos\BookMarke\obj\Debug\netcoreapp3.1\BookMarket.csproj.AssemblyReference.cache
+C:\Users\Onur\source\repos\BookMarke\obj\Debug\netcoreapp3.1\BookMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\source\repos\BookMarke\obj\Debug\netcoreapp3.1\BookMarket.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\BookMarke\obj\Debug\netcoreapp3.1\BookMarket.AssemblyInfo.cs
+C:\Users\Onur\source\repos\BookMarke\obj\Debug\netcoreapp3.1\BookMarket.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\BookMarke\obj\Debug\netcoreapp3.1\BookMarket.dll
+C:\Users\Onur\source\repos\BookMarke\obj\Debug\netcoreapp3.1\BookMarket.pdb
+C:\Users\Onur\source\repos\BookMarke\obj\Debug\netcoreapp3.1\BookMarket.genruntimeconfig.cache

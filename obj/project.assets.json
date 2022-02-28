@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Onur\\source\\repos\\BookMarke\\BookMarke.csproj",
-      "projectName": "BookMarke",
-      "projectPath": "C:\\Users\\Onur\\source\\repos\\BookMarke\\BookMarke.csproj",
+      "projectUniqueName": "C:\\Users\\Onur\\source\\repos\\BookMarke\\BookMarket.csproj",
+      "projectName": "BookMarket",
+      "projectPath": "C:\\Users\\Onur\\source\\repos\\BookMarke\\BookMarket.csproj",
       "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Onur\\source\\repos\\BookMarke\\obj\\",
       "projectStyle": "PackageReference",
